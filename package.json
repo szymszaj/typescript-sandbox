@@ -1,0 +1,22 @@
+{
+  "name": "typescript-todo-app",
+  "version": "1.0.0",
+  "description": "TypeScript playground & todo app",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "ts-node src/index.ts",
+    "play": "ts-node"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "szymszaj",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.0.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.0"
+  }
+}
