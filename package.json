@@ -1,7 +1,7 @@
 {
-  "name": "typescript-todo-app",
+  "name": "typescript-sandbox",
   "version": "1.0.0",
-  "description": "TypeScript playground & todo app",
+  "description": "TypeScript sandbox — practice arrays, functions, generics and more",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
